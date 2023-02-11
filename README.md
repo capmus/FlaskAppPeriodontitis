@@ -1,3 +1,3 @@
 # FlaskAppPeriodontitis
 
-need to install dependencies such as tensorflow, opencv, keras, 
+need to install dependencies such as tensorflow, opencv, keras, numpy
